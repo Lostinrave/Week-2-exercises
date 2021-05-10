@@ -2,64 +2,71 @@
 optionally extend the entire viewport to showcase 
 key marketing messages on your site. */
 .jumbotron {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    margin-bottom: 30px;
-    color: inherit;
-    background-color: #eee;
-    background-image: url('cardano.svg');
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;   
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+  background-image: url("cardano.svg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
 }
 /* Headings styling */
-.h1, h1 {
-    font-size: 36px;
+.h1,
+h1 {
+  font-size: 36px;
 }
-.h2, h2 {
-    font-size: 30px;
-}   
-.h3, h3 {
-    font-size: 24px;
-    padding: 4px;
-} 
-.h1, .h2, .h3, h1, h2, h3 {
-    margin-top: 20px;
-    margin-bottom: 10px;
+.h2,
+h2 {
+  font-size: 30px;
 }
-.h1, .h2, .h3, h1, h2, h3 {
-    font-family: inherit;
-    font-weight: 500;
-    line-height: 1.1;
-    color: inherit;
+.h3,
+h3 {
+  font-size: 24px;
+  padding: 4px;
+}
+.h1,
+.h2,
+.h3,
+h1,
+h2,
+h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.h1,
+.h2,
+.h3,
+h1,
+h2,
+h3 {
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1;
+  color: inherit;
 }
 /* Defines borders */
 .thumbnail {
-    display: block;
-    padding: 4px;
-    margin-bottom: 20px;
-    line-height: 1.42857143;
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    -webkit-transition: border .2s ease-in-out;
-    -o-transition: border .2s ease-in-out;
-    transition: border .2s ease-in-out;
-    
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  border: 1px solid #ddd;
+  border-radius: 4px;
 }
 .thumbnail {
   background-color: #eee;
 }
 .text-center {
-    text-align: center;
+  text-align: center;
 }
 body {
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 14px;
-    line-height: 1.42857143;
-    color: #333;
-    background-color: #fff;
-    
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #fff;
 }
 .thumbnail .caption {
   background-color: #ddd;
