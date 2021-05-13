@@ -36,11 +36,11 @@ h1 {
 /* 768 - 1240 - Plansete */
 /* 1240 - * - Plansete */
 /* Media Query  */
-@media(max-width: 768px) {
+/* @media(max-width: 768px) {
     .container {
-        /* width: 200px; */
+      
     }
-}
+} */
 
 .row-heading {
     display: flex;
@@ -76,4 +76,3 @@ form {
     width: 250px;
     padding: 40px;
 }
-
