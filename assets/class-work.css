@@ -1,3 +1,8 @@
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
 .cards {
     background: rgb(216, 216, 216);
     text-align: center;
