@@ -9,6 +9,11 @@ img {
     box-sizing: border-box;
 }
 
+input {
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
 h1 {
     font-size: 40px;
 }
